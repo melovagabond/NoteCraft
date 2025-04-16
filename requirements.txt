@@ -1,0 +1,16 @@
+# GUI
+tk
+
+# Audio processing
+pydub
+ffmpeg-python
+
+# AI Transcription
+basic-pitch
+
+# Music analysis and sheet music generation
+music21
+
+# Optional: to ensure compatibility with audio handling and MIDI
+numpy
+scipy

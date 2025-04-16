@@ -1,0 +1,16 @@
+name: notecraft
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - ffmpeg
+  - lilypond
+  - numpy<2.0
+  - scipy
+  - pydub
+  - music21
+  - pip:
+      - basic-pitch==0.3.3
+      - ffmpeg-python
