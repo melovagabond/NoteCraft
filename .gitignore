@@ -172,3 +172,97 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+### Custom
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+pip-wheel-metadata/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyCharm/VSCode
+.idea/
+.vscode/
+*.code-workspace
+
+# Mac/Linux/Windows system files
+.DS_Store
+Thumbs.db
+
+# Audio/Media cache
+*.wav
+*.mp3
+*.flac
+*.midi
+*.mid
+
+# Lilypond output
+*.pdf
+*.ps
+*.png
+*.eps
+*.ly
+
+# Debug logs
+*.log
+*.tmp
+*.bak
+
+# Temporary folders
+tmp/
+temp/
+*.swp
+*.swo
+
+# Auto-generated files
+*.pdf
+*.midi
+*.mid
+
+# Model-specific output
+basic_pitch_outputs/
