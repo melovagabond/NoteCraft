@@ -266,3 +266,8 @@ temp/
 
 # Model-specific output
 basic_pitch_outputs/
+
+
+##ENV PAth##
+notecraft-env/
+notecraft-env/*
